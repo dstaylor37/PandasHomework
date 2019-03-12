@@ -1,2 +1,2 @@
 # PandasHomework
-A project looking at the effect school type, size, and funding have on student success.
+A project looking at the impact school type, size, and funding have on student success.
