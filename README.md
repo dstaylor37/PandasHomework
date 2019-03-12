@@ -3,7 +3,7 @@ A project looking at the impact school type, size, and funding have on student s
 
 tl;dr 
 
-More spending does not mean a higher percentage of students passing reading and math; however there is likley  more study to be done on the ideal amount spent per student. Other factors are size and charter status.
+More spending does not mean a higher percentage of students pass reading and math; however there is likely more study to be done on the ideal amount spent per student. Other factors are size and charter status.
 
 Related, the largest schools have the lowest percent of students passing reading and math; put another way, the smaller the school, the higher the percentage of students passing both math and reading.
 
